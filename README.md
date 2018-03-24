@@ -1,3 +1,5 @@
 # 4Q Credit Card
 
-This is a demo app that uses [Moxtra Chat iOS SDK](https://developer.moxtra.com/docs/docs-ios-sdk/chat/).
+This is a sample credit card app that will jump to a companion app when user click on "Online Support"
+
+Please make sure you installed [CT-Companion](https://github.com/yihan-us/CT-Companion)
